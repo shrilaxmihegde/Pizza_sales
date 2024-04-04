@@ -3,6 +3,9 @@
 
 We need to analyze various aspects of pizza sales to gain insights and understand key trends. How much pizza sold in one day, means daily trends, Hourly trends, and how many sales by pizza category. we will now review what type of pizza people like and what time pizza will sell more daily.
 
+
+![Pizza_Sales_Analysis)](/Image/pizza-sales-dashaboard.png)
+
  ## Purpose:
 Here we use it CSV file, and an Excel worksheet, clean the data, connect to the SQL server, analyze the data Excel table, and visualize it in Tableau and also in Excel.
 
@@ -35,7 +38,6 @@ create the bar chart highlighting the top 5 best-selling pizzas based on the tot
 7. Bottom 5 worst sellers by total pizza sold:
 create the bar chart highlighting the top 5 worst-selling pizzas based on the total number of pizzas sold. It allows us to which one is the less popular pizza option.
 ## Dashboard Analysis
-![Pizza_Sales_Analysis)](/Image/pizza-sales-dashaboard.png)
 
 ### Tableau Link
 ### https://public.tableau.com/app/profile/shrilaxmi.hegde4270/viz/Pizza_sales_17092493924990/Pizzasales
